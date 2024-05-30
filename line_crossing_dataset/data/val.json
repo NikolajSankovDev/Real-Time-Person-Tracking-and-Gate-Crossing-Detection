@@ -1,0 +1,251 @@
+[
+    {
+        "id": 10,
+        "annotations": [
+            {
+                "id": 10,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "id": "T69lea7BSu",
+                        "type": "keypointlabels",
+                        "value": {
+                            "x": 25.033921302578015,
+                            "y": 45.59023066485752,
+                            "width": 0.15264586160108545,
+                            "keypointlabels": [
+                                "point1"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "img-1",
+                        "from_name": "kp-1",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 1080
+                    },
+                    {
+                        "id": "aeNiHe-vgY",
+                        "type": "keypointlabels",
+                        "value": {
+                            "x": 47.77815468113975,
+                            "y": 44.91180461329714,
+                            "width": 0.15264586160108545,
+                            "keypointlabels": [
+                                "point2"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "img-1",
+                        "from_name": "kp-1",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 1080
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-05-17T17:52:53.780325Z",
+                "updated_at": "2024-05-17T17:52:53.780325Z",
+                "draft_created_at": "2024-05-17T17:52:53.546355Z",
+                "lead_time": 8.022,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "77a7a497-b328-4978-965d-442b93941606",
+                "import_id": null,
+                "last_action": null,
+                "task": 10,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "52a6927f-frame_8.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "img": "\/data\/upload\/1\/52a6927f-frame_8.png"
+        },
+        "meta": {},
+        "created_at": "2024-05-17T17:50:48.794518Z",
+        "updated_at": "2024-05-17T17:52:53.806279Z",
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 11,
+        "annotations": [
+            {
+                "id": 11,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "id": "wXB8q6RTpg",
+                        "type": "keypointlabels",
+                        "value": {
+                            "x": 25.033921302578015,
+                            "y": 45.861601085481674,
+                            "width": 0.15264586160108545,
+                            "keypointlabels": [
+                                "point1"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "img-1",
+                        "from_name": "kp-1",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 1080
+                    },
+                    {
+                        "id": "hi24ojd695",
+                        "type": "keypointlabels",
+                        "value": {
+                            "x": 47.70183175033921,
+                            "y": 45.454545454545446,
+                            "width": 0.15264586160108545,
+                            "keypointlabels": [
+                                "point2"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "img-1",
+                        "from_name": "kp-1",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 1080
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-05-17T17:53:02.167589Z",
+                "updated_at": "2024-05-17T17:53:02.167589Z",
+                "draft_created_at": null,
+                "lead_time": 8.134,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d9fc98e7-7aa4-4318-8756-eeb9358d122d",
+                "import_id": null,
+                "last_action": null,
+                "task": 11,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "b781fc67-frame_9.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "img": "\/data\/upload\/1\/b781fc67-frame_9.png"
+        },
+        "meta": {},
+        "created_at": "2024-05-17T17:50:48.794518Z",
+        "updated_at": "2024-05-17T17:53:02.191109Z",
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 12,
+        "annotations": [
+            {
+                "id": 12,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "id": "z_hAf-plVQ",
+                        "type": "keypointlabels",
+                        "value": {
+                            "x": 25.11024423337856,
+                            "y": 45.59023066485752,
+                            "width": 0.15264586160108545,
+                            "keypointlabels": [
+                                "point1"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "img-1",
+                        "from_name": "kp-1",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 1080
+                    },
+                    {
+                        "id": "72uL0vmIqG",
+                        "type": "keypointlabels",
+                        "value": {
+                            "x": 47.77815468113975,
+                            "y": 45.31886024423337,
+                            "width": 0.15264586160108545,
+                            "keypointlabels": [
+                                "point2"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "img-1",
+                        "from_name": "kp-1",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 1080
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2024-05-17T17:53:19.703332Z",
+                "updated_at": "2024-05-17T17:53:19.703332Z",
+                "draft_created_at": "2024-05-17T17:53:19.394663Z",
+                "lead_time": 17.308,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "aa682fed-cac2-4682-9cf1-e63b58d41f80",
+                "import_id": null,
+                "last_action": null,
+                "task": 12,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "5da7f9a4-frame_10.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "img": "\/data\/upload\/1\/5da7f9a4-frame_10.png"
+        },
+        "meta": {},
+        "created_at": "2024-05-17T17:50:48.794518Z",
+        "updated_at": "2024-05-17T17:53:19.728541Z",
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]
